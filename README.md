@@ -3,3 +3,6 @@ From the Skill Factory
 
 ## ProjectsProject_0.
 * [To find digit which definde by robot] (https://github.com/Lepnik/data_science_lnv/tree/main/project_0)
+
+## ProjectsProject_1.
+* [To find digit which definde by robot] (https://github.com/Lepnik/data_science_lnv/tree/main/project_1)
