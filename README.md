@@ -1,8 +1,8 @@
-# data_science_lnv
-From the Skill Factory
+# My data science projects
+(From the Skill Factory)
 
-## ProjectsProject_0.
-* [To find digit which definde by robot] (https://github.com/Lepnik/data_science_lnv/tree/main/project_0)
+## Projects
 
-## ProjectsProject_1.
-* [To find digit which definde by robot] (https://github.com/Lepnik/data_science_lnv/tree/main/project_1)
+* [Project_0. To find number defined by robot] (https://github.com/Lepnik/data_science_lnv/tree/main/project_0)
+
+* [Project_1. To find number recursively defined by robot randomly] (https://github.com/Lepnik/data_science_lnv/tree/main/Project_1)

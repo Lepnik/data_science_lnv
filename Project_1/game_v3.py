@@ -24,10 +24,10 @@ def recursive_predict(number: int = 1) -> int:
         count += 1
         predict_number = np.random.randint(low, high)  # guessed number
         
-        if  predict_number==number:
+        if  predict_number == number:
             return count  # exit from recursive
         else: #updating useful rest of array
-            if predict_number<number:
+            if predict_number < number:
                 low = predict_number+1 # '+1' used to avoid duplication of lower bound
                 return find_numb (low, high)
             else:
