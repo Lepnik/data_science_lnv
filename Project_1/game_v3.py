@@ -56,4 +56,7 @@ def score_game(recursive_predict) -> int:
     print(f"Ваш алгоритм угадывает число в среднем за:{score} попыток")
     return score
 
-score_game(recursive_predict)
+# RUN
+if __name__ == '__main__':
+    score_game(recursive_predict)
+
