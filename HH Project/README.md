@@ -1,53 +1,62 @@
-# Проект 1. Угадай число
+# Проект: Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Какой-кейс-решаем)  
+[2. Фазы проекта](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Фазы-проекта)  
 [3. Краткая информация о данных](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Результат)    
 [6. Выводы](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Выводы) 
 
+###
+Файлы для анализа: https://drive.google.com/file/d/1-a4zFZJ9maRxtG-3G-TjhcGQxzV4q5o8/view?usp=share_link
+                   https://drive.google.com/file/d/1iMmScMzqobCJr5Uj-a-UsNPrv1214ARu/view?usp=share_link
+
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. 
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
 
 
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
+### Фазы проекта
+1. Базовый анализ структуры данных
 
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+2. Преобразование данных
 
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
+3. Разведывательный анализ
 
-**Что практикуем**     
-Учимся писать хороший код на python
+4. Очистка данных
+
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
 
 ### Краткая информация о данных
-....
+Датасет с данными из резюме соискателей.
+Датасет с курсами валют.
   
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+1. Использование стандартных операций из математической статистики для проведения базового анализа данных с помощью стандартных возможностей Pandas, Python и библиотеки Numpy.
+
+2. Форматирование исходных и создание новых признаков(характеристик) соискателя посредством PythOn и Pandas.
+
+3. Проведение разведывательного анализа посредством графических библиотек Plotly, Seaborn, Matplotlib.
+
+4. Очистка данных с помощью стандартных возможностей Pandas.
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
 
 
 ### Результаты:  
-It works!!!
+Получены 10 графиков различных зависимостей и распределений признаков.
+Также получены промежуточные числовые характеристики различных признаков.
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
 
 
 ### Выводы:  
-Patience effort will overcome all
+Обработанный датасет готов для машинного обучения
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/Project_1/README.md#Оглавление)
