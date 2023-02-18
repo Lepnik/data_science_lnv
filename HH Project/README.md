@@ -8,9 +8,6 @@
 [5. Результат](https://github.com/Lepnik/data_science_lnv/blob/main/HH%20Project/README.md#Результат)    
 [6. Выводы](https://github.com/Lepnik/data_science_lnv/blob/main/HH%20Project/README.md#Выводы) 
 
-###
-Файлы для анализа: https://drive.google.com/file/d/1-a4zFZJ9maRxtG-3G-TjhcGQxzV4q5o8/view?usp=share_link
-                   https://drive.google.com/file/d/1iMmScMzqobCJr5Uj-a-UsNPrv1214ARu/view?usp=share_link
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. 
@@ -31,8 +28,8 @@
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/HH%20Project/README.md#Оглавление)
 
 ### Краткая информация о данных
-Датасет с данными из резюме соискателей.
-Датасет с курсами валют.
+Датасет с данными из резюме соискателей. https://drive.google.com/file/d/1-a4zFZJ9maRxtG-3G-TjhcGQxzV4q5o8/view?usp=share_link
+Датасет с курсами валют. https://drive.google.com/file/d/1iMmScMzqobCJr5Uj-a-UsNPrv1214ARu/view?usp=share_link
   
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/HH%20Project/README.md#Оглавление)
 
