@@ -47,8 +47,7 @@
 
 
 ### Результаты:  
-Получены 10 графиков различных зависимостей и распределений признаков. 
-(https://github.com/Lepnik/data_science_lnv/tree/main/HH%20Project/graphs)
+Построены 10 графиков различных зависимостей и распределений признаков. (https://github.com/Lepnik/data_science_lnv/tree/main/HH%20Project/graphs)
 Также получены промежуточные числовые характеристики различных признаков.
 
 :arrow_up:[к оглавлению](https://github.com/Lepnik/data_science_lnv/blob/main/HH%20Project/README.md#Оглавление)
