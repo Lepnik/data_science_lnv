@@ -7,4 +7,6 @@
 
 * [Project_1. To find a number recursively defined by robot randomly] (https://github.com/Lepnik/data_science_lnv/tree/main/Project_1)
 
-* [Project_HH. Анализ резюме из HeadHunter] (https://github.com/Lepnik/data_science_lnv/tree/main/HH%20Project)
+* [Project_HH_1. Анализ резюме из HeadHunter] (https://github.com/Lepnik/data_science_lnv/tree/main/HH%20Project)
+
+* [Project_HH_2. Анализ вакансий из HeadHunter] (https://github.com/Lepnik/data_science_lnv/tree/main/HH%20Project%202)
