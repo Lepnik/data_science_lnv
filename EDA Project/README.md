@@ -30,7 +30,7 @@ The model should predict the hotel rating according to the Booking website based
 6. Model testing and results submiting.
 
 
-:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Contents)
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 ### Data information.
 #### raw data
@@ -60,22 +60,22 @@ lng — longetude(hotel coordinates).
 #### used libraries
 numpy, pandas, os, sklearn, matplotlib, seaborn, geopy, re, category_encoders, warnings, iso3166.
   
-:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Contents)
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 
 ### Getting to know the data.  
 It was released by buil-in methods info, head, nunique, value_counts.
 
-:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Contents)
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 
 ### Results:  
 MAPE metric reached with 0.13293852513328527 score. 
 
-:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Contents)
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 
 ### Conclusions:  
 ML model is successful.
 
-:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Contents)
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Projec/README.md#Contents)
