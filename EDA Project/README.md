@@ -1,5 +1,5 @@
 # EDA Project: model creation to predict hotel rating.
-
+https://www.kaggle.com/code/lepnik48/lnv-project  
 ## Contents  
 [1. Project discription](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Project-discription)  
 [2. Projec phases](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Projec-phases)  
