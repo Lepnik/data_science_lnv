@@ -36,28 +36,28 @@ The model should predict the hotel rating according to the Booking website based
 
 ### Data information.
 #### Raw data:
-/kaggle/input/sf-booking/hotels_train.csv includes dataframe for train part. 
-/kaggle/input/sf-booking/hotels_test.csv includes dataframe for test part.
-/kaggle/input/sf-booking/submission.csv includes sample of sabmition file.
+/kaggle/input/sf-booking/hotels_train.csv includes dataframe for train part.  
+/kaggle/input/sf-booking/hotels_test.csv includes dataframe for test part.  
+/kaggle/input/sf-booking/submission.csv includes sample of sabmition file.  
 
 #### Features discription:
-hotel_address — hotel address;
-review_date — the date when reviewer placed review;
-average_score — hatel average score, based on last comment thru last year;
-hotel_name — hotel name;
-reviewer_nationality — reviewer nationality;
-negative_review — negative review, which was given by reviewer;
-review_total_negative_word_counts — quantity of words in the negative review;
-positive_review — positive review, which was given by reviewer;
-review_total_positive_word_counts — quantity of words in the positive review.
-reviewer_score — reviewer score based on reviewer's own experience;
-total_number_of_reviews_reviewer_has_given — total number of reviews given by reviewer;
-total_number_of_reviews — total number of certain reviews for each hotel;
-tags — tags which were left by reviewer;
-days_since_review — days number between review date and clearance date;
-additional_number_of_scoring — number of score without any details in pos\neg review.
-lat — latitude (hotel coordinates);
-lng — longetude(hotel coordinates).
+hotel_address — hotel address;  
+review_date — the date when reviewer placed review;  
+average_score — hatel average score, based on last comment thru last year;  
+hotel_name — hotel name;  
+reviewer_nationality — reviewer nationality;  
+negative_review — negative review, which was given by reviewer;  
+review_total_negative_word_counts — quantity of words in the negative review;  
+positive_review — positive review, which was given by reviewer;  
+review_total_positive_word_counts — quantity of words in the positive review;  
+reviewer_score — reviewer score based on reviewer's own experience;  
+total_number_of_reviews_reviewer_has_given — total number of reviews given by reviewer;  
+total_number_of_reviews — total number of certain reviews for each hotel;  
+tags — tags which were left by reviewer;  
+days_since_review — days number between review date and clearance date;  
+additional_number_of_scoring — number of score without any details in pos\neg review;  
+lat — latitude (hotel coordinates);  
+lng — longetude(hotel coordinates).  
 
 #### Used libraries:
 numpy, pandas, os, sklearn, matplotlib, seaborn, geopy, re, category_encoders, warnings, iso3166.
@@ -71,14 +71,14 @@ It was released by built-in methods info, head, nunique, value_counts.
 :arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 
-### Preporation for ML.
-Filling skiped latitude and longitude cells thru the geopy.
-New features "country, review_dayofweek, review_month, review_year, room, night, people, trip, assignment' creation.
-Sifting and recounting words in positive and negative reviews.
-Delition of reviews without any comment in positive and negative reviews.
-Optimization of rewiewer nationality feature. 
-Non object features encoding.
-Correlation analisys for numeric features.
+### Data cleaning&filling and new features creation.
+Filling skiped latitude and longitude cells thru the geopy.  
+New features "country, review_dayofweek, review_month, review_year, room, night, people, trip, assignment' creation.  
+Sifting and recounting words in positive and negative reviews.  
+Delition of reviews without any comment in positive and negative reviews.  
+Optimization of rewiewer nationality feature.   
+Non object features encoding.  
+Correlation analisys for numeric features.  
 
 :arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
@@ -90,7 +90,7 @@ Spliting dataframe into train and test parts.
 :arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 ### ML execution.
-ML execution thru the RandomForestRegressor.
+ML execution thru the RandomForestRegressor.  
 MAPE metric reached with 0.13293852513328527 score.
 
 :arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
