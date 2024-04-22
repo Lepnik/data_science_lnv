@@ -1,13 +1,13 @@
 # EDA Project: model creation to predict hotel rating.
 https://github.com/Lepnik/data_science_lnv/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project
 ## Contents  
-[1. Project discription](https://github.com/Lepnik/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#Project-discription)  
-[2. Projec phases](https://github.com/Lepnik/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#Projec-phases)  
-[3. Data information](https://github.com/Lepnik/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#Data-information)  
-[4. Getting to know the data](https://github.com/Lepnik/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#Getting-to-know-the-data)  
-[5. Preporation for ML](https://github.com/Lepnik/data_science_lnv/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20ProjectREADME.md#Preporation-for-ML)    
-[6. ML execution](https://github.com/Lepnik/data_science_lnv/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#ML-execution) 
-[7. Model testing and results submiting](https://github.com/Lepnik/data_science_lnv/tree/05c605e0d99a168f9837a85cf29b90597fb8494a/EDA%20Project/README.md#Model-testing-and-results-submiting) 
+[1. Project discription](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project%202/README.md#Project-discription)  
+[2. Projec phases](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Projec-phases)  
+[3. Data information](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Data-information)  
+[4. Getting to know the data](https://github.com/Lepnik/data_science_lnv/blob/main//README.md#Getting-to-know-the-data)  
+[5. Preporation for ML](https://github.com/Lepnik/data_science_lnv/blob/main//EDA%20ProjectREADME.md#Preporation-for-ML)    
+[6. ML execution](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#ML-execution) 
+[7. Model testing and results submiting](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Model-testing-and-results-submiting) 
 
 
 ### Project discription.    
