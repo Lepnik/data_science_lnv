@@ -96,6 +96,11 @@ MAPE metric reached with 0.13293852513328527 score.
 :arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
 
 
+### Model testing and results submiting.
+Model testing and results submiting
+
+:arrow_up:[to contents](https://github.com/Lepnik/data_science_lnv/blob/main/EDA%20Project/README.md#Contents)
+
 ### Conclusions:  
 ML model is successful and could be used for defining hotels with suspicious rating. But also could be improved.
 
