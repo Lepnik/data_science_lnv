@@ -1,0 +1,46 @@
+INFO: 2023-09-27 12:31:30,185: Data
+INFO: 2023-09-27 12:31:30,186: Data shape (110527, 14)
+INFO: 2023-09-27 12:31:30,203: Percentage of women: 0.653882342398853
+INFO: 2023-09-27 12:31:30,224: Percentage of men: 0.346117657601147
+INFO: 2023-09-27 12:34:06,479: Data
+INFO: 2023-09-27 12:34:06,482: Data shape (110527, 14)
+INFO: 2023-09-27 12:34:06,505: Percentage of women: 0.653882342398853
+INFO: 2023-09-27 12:34:06,522: Percentage of men: 0.346117657601147
+INFO: 2023-09-27 12:35:27,513: Data
+INFO: 2023-09-27 12:35:27,513: Data
+INFO: 2023-09-27 12:35:27,515: Data shape (110527, 14)
+INFO: 2023-09-27 12:35:27,515: Data shape (110527, 14)
+INFO: 2023-09-27 12:35:27,534: Percentage of women: 0.653882342398853
+INFO: 2023-09-27 12:35:27,534: Percentage of women: 0.653882342398853
+INFO: 2023-09-27 12:35:27,553: Percentage of men: 0.346117657601147
+INFO: 2023-09-27 12:35:27,553: Percentage of men: 0.346117657601147
+ERROR: 2023-09-27 12:35:27,554: Data shape is incorrect!
+ERROR: 2023-09-27 12:35:27,554: Data shape is incorrect!
+INFO: 2023-09-27 12:51:21,504: Data
+INFO: 2023-09-27 12:51:21,506: Data shape (110527, 14)
+INFO: 2023-09-27 12:51:21,526: Percentage of women: 0.653882342398853
+INFO: 2023-09-27 12:51:21,542: Percentage of men: 0.346117657601147
+ERROR: 2023-09-27 12:51:21,544: Data shape is incorrect!
+WARNING: 2023-09-27 16:18:20,728: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/health/ping
+WARNING: 2023-09-28 00:25:14,207: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 00:25:14,548: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2EB67100>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 00:25:15,414: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EA380>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
+WARNING: 2023-09-28 00:25:18,240: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EA260>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 00:25:18,602: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6E9150>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 07:07:29,665: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EACE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
+WARNING: 2023-09-28 07:07:37,215: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EAEF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 07:07:37,215: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EB0A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 07:07:37,228: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2CABE320>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/rest/v2/write/experiment/output
+WARNING: 2023-09-28 07:07:37,968: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EB2E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
+WARNING: 2023-09-28 07:07:38,238: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EBE20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 07:07:41,315: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EBCD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/rest/v2/write/experiment/output
+WARNING: 2023-09-28 07:07:42,260: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6E9A50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 10:08:27,205: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 10:08:27,205: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /clientlib/health/ping
+WARNING: 2023-09-28 10:08:28,707: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EA5C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
+WARNING: 2023-09-28 13:17:02,158: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EB430>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 13:17:02,160: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B6EB460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 13:17:03,634: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B734400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
+WARNING: 2023-09-28 13:17:10,245: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B734880>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/health/ping
+WARNING: 2023-09-28 13:17:10,287: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B7347F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/batch/logger/experiment/metric
+WARNING: 2023-09-28 13:17:11,637: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022F2B734D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /clientlib/status-report/update
