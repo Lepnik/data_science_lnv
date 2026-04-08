@@ -1,4 +1,4 @@
-# Проект: Анализ резюме из HeadHunter
+# Проект: Сегментация клиентов онлайн магазина подарков
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Lepnik/data_science_lnv/blob/main/MATH%2BML/Project_6/README.md#Описание-проекта)  
